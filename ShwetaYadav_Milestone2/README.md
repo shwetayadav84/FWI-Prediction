@@ -2,19 +2,19 @@
 This project builds a Ridge Regression model to predict the Fire Weather Index (FWI) using real-world meteorological and fire-danger indicators such as temperature, humidity, windspeed, DC, DMC, ISI, BUI, etc.
 
 # The workflow includes:
-1.Feature Engineering
+Feature Engineering
 
-2.Data Scaling
+Data Scaling
 
-3.Ridge Regression Training
+Ridge Regression Training
 
-4.Hyperparameter Tuning (alpha)
+Hyperparameter Tuning (alpha)
 
-5.Model Evaluation
+Model Evaluation
 
-6.Overfitting/Underfitting Diagnosis
+Overfitting/Underfitting Diagnosis
 
-7.Saving the scaler and trained model
+Saving the scaler and trained model
 
 # steps achieved 
 # module 3
