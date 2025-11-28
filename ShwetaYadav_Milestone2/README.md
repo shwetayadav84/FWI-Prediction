@@ -3,11 +3,17 @@ This project builds a Ridge Regression model to predict the Fire Weather Index (
 
 # The workflow includes:
 1.Feature Engineering
+
 2.Data Scaling
+
 3.Ridge Regression Training
+
 4.Hyperparameter Tuning (alpha)
+
 5.Model Evaluation
+
 6.Overfitting/Underfitting Diagnosis
+
 7.Saving the scaler and trained model
 
 # steps achieved 
