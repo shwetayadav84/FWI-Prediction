@@ -80,7 +80,8 @@ Displayed user-friendly error messages
 
 Organized files into:
 
-
+(html and index files)
 templates/
 
+(gifs of fire level)
 static/gifs/
