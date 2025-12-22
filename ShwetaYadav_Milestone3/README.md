@@ -6,12 +6,11 @@
 Created Flask app using app.py
 
 Defined routes for:
+         input page
 
-        input page
+            prediction result
 
-        prediction result
-
-Loaded trained model and scaler
+  Loaded trained model and scaler
 
 **2.Input Handling**
 
