@@ -7,8 +7,7 @@ Created Flask app using app.py
 
 Defined routes for:
          input page
-
-            prediction result
+         prediction result
 
   Loaded trained model and scaler
 
